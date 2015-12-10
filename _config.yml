@@ -1,8 +1,10 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://Velocet.github.io
+url: http://velocet.github.io
 title: Maschinensprache
+email: velocet@users.noreply.github.com
+author: Velocet
 tagline: digitales grundrauschen
-description: radikale gedanken über liberale technik
+description: radikale gedanken Ã¼ber liberale technik
 paginate: 5
